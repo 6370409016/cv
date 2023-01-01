@@ -196,6 +196,18 @@ a:hover{
   left:800px;
 }
 
+.
+.footer-link-twitter{
+  color:#11999E;
+  margin:0 10px;
+}
+
+.twitter{
+  position:absolute;
+  margin:0 20px 100px 10px ;
+  left:950px;
+}
+
 /*****************************example of relative positioning*************************
 img{
   position:relative;
